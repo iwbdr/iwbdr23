@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](https://user-images.githubusercontent.com/5705572/127086734-32237f3e-2f0b-4175-927e-21cd61955cfd.png)
+![Branching](https://user-images.githubusercontent.com/5705572/190869419-f3581148-0da4-4d05-8778-0e215f2db469.png)
 
 # Introduction
 
@@ -74,7 +74,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Program Chairs
 
-* Dingwen Tao, _Indiana University Bloomington_
+* Dingwen Tao, _Indiana University_
 * Xin Liang, _University of Kentucky_
 * Sheng Di, _Argonne National Laboratory_
 
