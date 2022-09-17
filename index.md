@@ -14,7 +14,7 @@ There are at least three significant research topics that the community is striv
 
 The goal of this workshop is to provide a focused venue for researchers in all aspects of data reduction in all related communities to present their research results, exchange ideas, identify new research directions, and foster new collaborations within the community.
 
-<em>Please note this year’s IEEE BigData conference and IWBDR workshop will be held **virtually**. Proceedings of the workshop will be published as planned. We will provide more details about how to attend this workshop virtually soon.</em>
+<em>Please note this year’s IEEE BigData conference and IWBDR workshop will be held **online**. Proceedings of the workshop will be published as planned. We will provide more details about how to attend this workshop virtually.</em>
 
 # Submissions
 
@@ -59,84 +59,55 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format.
 * Submissions are NOT double-blind.
 * Only web-based submissions are allowed.
-* All submission deadlines are Anywhere on Earth
+* All submission deadlines are Anywhere on Earth (AOE).
 * Please submit your paper via the submission system.
-* Submission link: [Cyberchair submissions website](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php).
+* Submission link: [Cyberchair submissions website](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S11&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php).
 
 ### Important Dates
 
-* Paper Submission: ~~November 5, 2021~~ November 8, 2021
-* Paper Acceptance Notification: November 12, 2021
-* Camera-ready Deadline: November 19, 2021
-* Workshop: December 17, 2021
+* Paper Submission: November 4, 2022
+* Paper Acceptance Notification: November 18, 2022
+* Camera-ready Deadline: November 25, 2022
+* Workshop: December 17, 2022
 
 # Organizers
 
 ### Program Chairs
 
-* Dingwen Tao, _Washington State University_
-* Xin Liang, _Missouri S&T_
+* Dingwen Tao, _Indiana University Bloomington_
+* Xin Liang, _University of Kentucky_
 * Sheng Di, _Argonne National Laboratory_
 
 ### Web Chair
 
-* Jiannan Tian, _Washington State University_
+* Jiannan Tian, _Indiana University_
 
-### Program Committee
+### Program Committee (Planned)
 
 * Allison Baker, _National Center for Atmospheric Research_
 * Mehmet Belviranli, _Colorado School of Mines_
 * Martin Burtscher, _Texas State University_
 * Franck Cappello, _Argonne National Laboratory_
 * Jon Calhoun, _Clemson University_
+* Jong Youl Choi, _Oak Ridge National Laboratory_
 * Jieyang Chen, _Oak Ridge National Laboratory_
-* Yimin Chen, _Lawrence Berkeley National Laboratory_
 * Soumya Dutta, _Los Alamos National Laboratory_
 * William Godoy, _Oak Ridge National Laboratory_
 * Pascal Grosset, _Los Alamos National Laboratory_
-* Hanqi Guo, _Argonne National Laboratory_
-* Muhammad Asif Khan, _Qatar University_
-* Beiyu Lin, _University of Nevada, Las Vegas_
+* Hanqi Guo, _Ohio State University_
 * Shaomeng Li, _National Center for Atmospheric Research_
-* Habib Rehman, _Khalifa University_
-* Tao Lu, _Marvell Technology Group_
+* Qing Liu, _New Jersey Institute of Technology_
+* Ben E. Whitney, _Oak Ridge National Laboratory_
 * Panruo Wu, _University of Houston_
 * Wen Xia, _Harbin Institute of Technology, Shenzhen_
+* Xiaodong Yu, _Argonne National Laboratory_
+* Kai Zhao, _University of Alabama, Birmingham_
 
 
 # Program Schedule
 
-Timezone: Eastern Time (ET/EST), UTC-5
-
-- 1:00 pm -- 5:10 pm ET
-- 12:00 pm -- 4:10 pm CT
-- 11:00 am -- 3:10 pm MT
-- 10:00 am -- 2:10 pm PT
-
-| **Time**           | **Title**                                                                                                           |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| 1:00 -- 1:05 pm ET | Opening Remarks and Welcome                                                                                         |
-|                    | Dingwen Tao, Sheng  Di, Xin Liang                                                                                   |
-| 1:05 -- 1:50 pm ET | **Keynote Speech**: High Ratio, Speed and Accuracy Customizable Scientific Data Compression with SZ                                                                                            |
-|                    | Franck Cappello, Argonne National Laboratory                                                                                                                 |
-| 1:50 -- 2:15 pm ET | **S15202**: Efficient loading of reduced data ensembles produced at ORNL SNS/HFIR neutron time-of-flight facilities |
-|                    | William Godoy, Andrei Savici, Steven Hahn, and  Peter Peterson                                                      |
-| 2:15 -- 2:40 pm ET | **BigD302**: LCTL: Lightweight Compression Template Library                                                         |
-|                    | Juliana Hildebrandt, André Berthold, Dirk Habich, and Wolfgang Lehner                                               |
-| 2:40 -- 3:05 pm ET | **S15205**: On Large-Scale Matrix-Matrix Multiplication on Compressed Structures                                    |
-|                    | Sudhindra Gopal Krishna, Aditya Narasimhan, Sridhar Radhakrishnan, and Richard Veras                                |
-| 3:05 -- 3:25 pm ET | **S15206**: Tuning Parallel Data Compression and I/O for Large-scale Earthquake Simulation                          |
-|                    | Houjun Tang, Suren Byna, N. Anders Petersson, and David Mccallen                                                    |
-| 3:25 -- 3:30 pm ET | **Coffee Break**                                                                                                    |
-| 3:30 -- 3:55 pm ET | **S15207**: Using Neural Networks for Two Dimensional Scientific Data Compression                                   |
-|                    | Lucas Hayne, John Clyne, and Shaomeng Li                                                                            |
-| 3:55 -- 4:20 pm ET | **BigD312**: Prototyping: Sample Selection for Imbalanced Data                                                      |
-|                    | Edward Schwalb                                                                                                      |
-| 4:20 -- 4:45 pm ET | **S15204**: Fast Machine Learning in Data Science with a Comprehensive Data Summarization                           |
-|                    | Sikder Tahsin Al-Amin and Carlos Ordonez                                                                            |
-| 4:45 -- 5:05 pm ET | **S15203**: Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques            |
-|                    | Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello               |
-| 5:05 -- 5:10 pm ET | **Closing Remarks**                                                                                                 |
+TBD
 
 # Participation
-Participants can find the Zoom link to join the workshop through Underline (https://underline.io/events/222/sessions?eventSessionId=9588). 
+
+TBD
