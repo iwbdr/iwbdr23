@@ -65,7 +65,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Important Dates
 
-* Paper Submission: November 4, 2022
+* Paper Submission: November 11, 2022
 * Paper Acceptance Notification: November 18, 2022
 * Camera-ready Deadline: November 25, 2022
 * Workshop: December 17, 2022
