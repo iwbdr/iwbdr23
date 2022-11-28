@@ -121,7 +121,7 @@ Timezone: Japan Time (JST), UTC+9
 | 2:00 - 2:05 pm | Opening Remarks and Welcome                                                                                         |
 |                     | Dingwen Tao, Xin Liang, Sheng  Di                                                                                   |
 | 2:05 - 3:00 pm | **Invited Talk 1**: TBD                                                                                            |
-|                    | TBD                                                                                                                 |
+|                    | **Feng Zhang**, Associate Professor, Renmin University                                                                                                                 |
 | 3:00 - 3:20 pm | **S11201**: Machine Learning Platform for Extreme Scale Computing on Compressed IoT Data.           |
 |                    | Seshu Tirupathi, Dhaval Salwala, Giulio Zizzo, Ambrish Rawat, Mark Purcell, Søren Kejser Jensen, Christian Thomsen, Nguyen Ho, Carlos E. Muniz Cuza, Jonas Brusokas, Torben Bach Pedersen, Giorgos Alexiou, Giorgos Giannopoulos, Panagiotis Gidarakos, Alexandros Kalimeris, Stavros Maroulis, George Papastefanatos, Ioannis Psarros, Vassilis Stamatopoulos, and Manolis Terrovitis                                                     |
 | 3:20 - 3:40 pm | **S11202**: Lossy Compression to Reduce Latency of Local Image Transfer for Autonomous Off-Road Perception Systems                                                         |
@@ -129,7 +129,7 @@ Timezone: Japan Time (JST), UTC+9
 | 3:40 - 4:00 pm | **BigD616**: Estimating Potential Error in Sampling Interpolation                                    |
 |                    | Megan Hickman Fulp, Dakota Fulp, and Jon Calhoun                                |
 | 4:00 - 4:15 pm | **Coffee Break**                                                                                                    |
-| 4:15 - 5:19 pm | **Invited Talk 2**: TBD                                                                                            |
+| 4:15 - 5:10 pm | **Invited Talk 2**: TBD                                                                                            |
 |                    | TBD                                                                                                                 |
 | 5:10 - 5:30 pm | **S11204**: Towards Guaranteeing Error Bound in DCT-based Lossy Compression                                   |
 |                    | Jiaxi Chen, Aekyeung Moon, and Seung Woo Son                                                                            |
