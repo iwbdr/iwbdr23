@@ -122,7 +122,7 @@ Timezone: Japan Time (JST), UTC+9
 |                     | Dingwen Tao, Xin Liang, Sheng  Di                                                                                   |
 | 2:05 - 3:00 pm | **Invited Talk 1**: TBD                                                                                            |
 |                    | TBD                                                                                                                 |
-| 3:00 - 3:20 pm | **S11201**: S11201: S11201: Machine Learning Platform for Extreme Scale Computing on Compressed IoT Data.           |
+| 3:00 - 3:20 pm | **S11201**: Machine Learning Platform for Extreme Scale Computing on Compressed IoT Data.           |
 |                    | Seshu Tirupathi, Dhaval Salwala, Giulio Zizzo, Ambrish Rawat, Mark Purcell, Søren Kejser Jensen, Christian Thomsen, Nguyen Ho, Carlos E. Muniz Cuza, Jonas Brusokas, Torben Bach Pedersen, Giorgos Alexiou, Giorgos Giannopoulos, Panagiotis Gidarakos, Alexandros Kalimeris, Stavros Maroulis, George Papastefanatos, Ioannis Psarros, Vassilis Stamatopoulos, and Manolis Terrovitis                                                     |
 | 3:20 - 3:40 pm | **S11202**: Lossy Compression to Reduce Latency of Local Image Transfer for Autonomous Off-Road Perception Systems                                                         |
 |                    | Max Faykus, Bradley Selee, Jon Calhoun, and Melissa Smith                                               |
