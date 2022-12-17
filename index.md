@@ -110,11 +110,11 @@ Date: December 18, 2022
 
 Timezone: Japan Time (JST), UTC+9
 
-- 2:00 pm -- 6:15 pm JST
-- 12:00 AM -- 4:15 AM ET
-- 11:00 PM -- 3:15 AM CT
-- 10:00 PM -- 2:15 AM MT
-- 9:00 PM -- 1:15 AM PT
+- 2:00 pm -- 5:15 pm JST
+- 12:00 AM -- 3:15 AM ET
+- 11:00 PM -- 2:15 AM CT
+- 10:00 PM -- 1:15 AM MT
+- 9:00 PM -- 0:15 AM PT
 
 | **Time**           | **Title**                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -128,16 +128,14 @@ Timezone: Japan Time (JST), UTC+9
 |                    | Max Faykus, Bradley Selee, Jon Calhoun, and Melissa Smith                                               |
 | 3:40 - 4:00 pm | **BigD616**: Estimating Potential Error in Sampling Interpolation                                    |
 |                    | Megan Hickman Fulp, Dakota Fulp, and Jon Calhoun                                |
-| 4:00 - 4:15 pm | **Coffee Break**                                                                                                    |
-| 4:15 - 5:10 pm | **Invited Talk 2**: TBD                                                                                            |
-|                    | TBD                                                                                                                 |
-| 5:10 - 5:30 pm | **S11204**: Towards Guaranteeing Error Bound in DCT-based Lossy Compression                                   |
+| 4:00 - 4:10 pm | **Coffee Break**                                                                                                    |
+| 4:10 - 4:30 pm | **S11204**: Towards Guaranteeing Error Bound in DCT-based Lossy Compression                                   |
 |                    | Jiaxi Chen, Aekyeung Moon, and Seung Woo Son                                                                            |
-| 5:30 - 5:50 pm | **S11203**: Exploring Data Corruption Inside SZ                                   |
+| 4:30 - 4:50 pm | **S11203**: Exploring Data Corruption Inside SZ                                   |
 |                    | Ruiwen Shan and Jon C. Calhoun                                                                            |
-| 5:50 - 6:10 pm | **BigD247**: Extraction of Power Consumption Patterns using Non-negative Tucker Decomposition  |
+| 4:50 - 5:10 pm | **BigD247**: Extraction of Power Consumption Patterns using Non-negative Tucker Decomposition  |
 |                    | Taku Moriyama, Mio Hosoe, Masashi Kuwano, and Yuka Minamino                                                                            |
-| 6:10 - 6:15 pm | **Closing Remarks**                                                                                                 |
+| 5:10 - 5:15 pm | **Closing Remarks**                                                                                                 |
 
 
 # Participation
