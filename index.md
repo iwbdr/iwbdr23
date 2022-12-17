@@ -140,4 +140,5 @@ Timezone: Japan Time (JST), UTC+9
 
 # Participation
 
-TBD
+Office website: [https://events.rdmobile.com/Sessions/Details/1638858](https://events.rdmobile.com/Sessions/Details/1638858)
+
