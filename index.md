@@ -84,24 +84,16 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Program Committee (Planned)
 
-* Allison Baker, _National Center for Atmospheric Research_
-* Mehmet Belviranli, _Colorado School of Mines_
-* Martin Burtscher, _Texas State University_
-* Franck Cappello, _Argonne National Laboratory_
-* Jon Calhoun, _Clemson University_
-* Jong Youl Choi, _Oak Ridge National Laboratory_
 * Jieyang Chen, _Oak Ridge National Laboratory_
-* Soumya Dutta, _Los Alamos National Laboratory_
+* Sheng Di, _Argonne National Laboratory_
 * William Godoy, _Oak Ridge National Laboratory_
 * Pascal Grosset, _Los Alamos National Laboratory_
-* Hanqi Guo, _Ohio State University_
+* Sian Jin, _Indiana University_
 * Shaomeng Li, _National Center for Atmospheric Research_
-* Qing Liu, _New Jersey Institute of Technology_
-* Ben E. Whitney, _Oak Ridge National Laboratory_
-* Panruo Wu, _University of Houston_
-* Wen Xia, _Harbin Institute of Technology, Shenzhen_
+* Xin Liang, _University of Kentucky_
+* Dingwen Tao, _Indiana University_
 * Xiaodong Yu, _Argonne National Laboratory_
-* Kai Zhao, _University of Alabama, Birmingham_
+* Kai Zhao, _University of Alabama at Birmingham_
 
 
 # Program Schedule
