@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![Branching](https://user-images.githubusercontent.com/1593048/236631168-5ebabad0-8df9-41e4-9f43-5611d13a59fe.jpeg)
+![Branching](https://user-images.githubusercontent.com/1593048/236631293-b32345e4-6638-454e-b096-b69022731ccc.png)
+
+
 
 # Introduction
 
