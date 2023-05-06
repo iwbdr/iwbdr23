@@ -61,76 +61,100 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 * Only web-based submissions are allowed.
 * All submission deadlines are Anywhere on Earth (AOE).
 * Please submit your paper via the submission system.
-* Submission link: [Cyberchair submissions website](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S11&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php).
+* Submission link: [Cyberchair submissions website](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S38&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php).
 
 ### Important Dates
 
-* Paper Submission: November 11, 2022
-* Paper Acceptance Notification: November 18, 2022
-* Camera-ready Deadline: November 25, 2022
-* Workshop: December 18, 2022
+* Paper Submission: October 1, 2023
+* Paper Acceptance Notification: November 1, 2023
+* Camera-ready Deadline: November 20, 2023
+* Workshop: December 15-18, 2023
 
 # Organizers
 
 ### Program Chairs
-
-* Dingwen Tao, _Indiana University_
-* Xin Liang, _University of Kentucky_
-* Sheng Di, _Argonne National Laboratory_
+* Kai Zhao, _University of Alabama at Birmingham_
+* Sian Jin, _Temple University_
+* Jieyang Chen, _University of Alabama at Birmingham_
 
 ### Web Chair
+* Longtao Zhang, _University of Alabama at Birmingham_
 
-* Jiannan Tian, _Indiana University_
+### Steering Committee
+* Dingwen Tao, _Indiana University_
+* Sheng Di, _Argonne National Laboratory_
+* Xin Liang, _University of Kentucky_
 
 ### Program Committee (Planned)
 
-* Jieyang Chen, _Oak Ridge National Laboratory_
-* Sheng Di, _Argonne National Laboratory_
 * William Godoy, _Oak Ridge National Laboratory_
 * Pascal Grosset, _Los Alamos National Laboratory_
-* Sian Jin, _Indiana University_
 * Shaomeng Li, _National Center for Atmospheric Research_
-* Xin Liang, _University of Kentucky_
-* Dingwen Tao, _Indiana University_
 * Xiaodong Yu, _Argonne National Laboratory_
-* Kai Zhao, _University of Alabama at Birmingham_
+* Jiannan Tian, _Indiana University_
+
+[//]: # (# Program Schedule)
+
+[//]: # ()
+[//]: # (Date: December 18, 2022)
+
+[//]: # ()
+[//]: # (Timezone: Japan Time &#40;JST&#41;, UTC+9)
+
+[//]: # ()
+[//]: # (- 2:00 pm -- 5:15 pm JST)
+
+[//]: # (- 12:00 AM -- 3:15 AM ET)
+
+[//]: # (- 11:00 PM -- 2:15 AM CT)
+
+[//]: # (- 10:00 PM -- 1:15 AM MT)
+
+[//]: # (- 9:00 PM -- 0:15 AM PT)
+
+[//]: # ()
+[//]: # (| **Time**           | **Title**                                                                                                           |)
+
+[//]: # (| ------------------ | ------------------------------------------------------------------------------------------------------------------- |)
+
+[//]: # (| 2:00 - 2:05 pm | Opening Remarks and Welcome                                                                                         |)
+
+[//]: # (|                     | Dingwen Tao, Xin Liang, Sheng  Di                                                                                   |)
+
+[//]: # (| 2:05 - 3:00 pm | **Invited Talk**: Compressed Data Direct Processing for Big Data Reduction                                                                                            |)
+
+[//]: # (|                    | **Feng Zhang**, Associate Professor, Renmin University                                                                                                                 |)
+
+[//]: # (| 3:00 - 3:20 pm | **S11201**: Machine Learning Platform for Extreme Scale Computing on Compressed IoT Data.           |)
+
+[//]: # (|                    | Seshu Tirupathi, Dhaval Salwala, Giulio Zizzo, Ambrish Rawat, Mark Purcell, Søren Kejser Jensen, Christian Thomsen, Nguyen Ho, Carlos E. Muniz Cuza, Jonas Brusokas, Torben Bach Pedersen, Giorgos Alexiou, Giorgos Giannopoulos, Panagiotis Gidarakos, Alexandros Kalimeris, Stavros Maroulis, George Papastefanatos, Ioannis Psarros, Vassilis Stamatopoulos, and Manolis Terrovitis                                                     |)
+
+[//]: # (| 3:20 - 3:40 pm | **S11202**: Lossy Compression to Reduce Latency of Local Image Transfer for Autonomous Off-Road Perception Systems                                                         |)
+
+[//]: # (|                    | Max Faykus, Bradley Selee, Jon Calhoun, and Melissa Smith                                               |)
+
+[//]: # (| 3:40 - 4:00 pm | **BigD616**: Estimating Potential Error in Sampling Interpolation                                    |)
+
+[//]: # (|                    | Megan Hickman Fulp, Dakota Fulp, and Jon Calhoun                                |)
+
+[//]: # (| 4:00 - 4:10 pm | **Coffee Break**                                                                                                    |)
+
+[//]: # (| 4:10 - 4:30 pm | **S11204**: Towards Guaranteeing Error Bound in DCT-based Lossy Compression                                   |)
+
+[//]: # (|                    | Jiaxi Chen, Aekyeung Moon, and Seung Woo Son                                                                            |)
+
+[//]: # (| 4:30 - 4:50 pm | **S11203**: Exploring Data Corruption Inside SZ                                   |)
+
+[//]: # (|                    | Ruiwen Shan and Jon C. Calhoun                                                                            |)
+
+[//]: # (| 4:50 - 5:10 pm | **BigD247**: Extraction of Power Consumption Patterns using Non-negative Tucker Decomposition  |)
+
+[//]: # (|                    | Taku Moriyama, Mio Hosoe, Masashi Kuwano, and Yuka Minamino                                                                            |)
+
+[//]: # (| 5:10 - 5:15 pm | **Closing Remarks**                                                                                                 |)
 
 
-# Program Schedule
+[//]: # (# Participation)
 
-Date: December 18, 2022
-
-Timezone: Japan Time (JST), UTC+9
-
-- 2:00 pm -- 5:15 pm JST
-- 12:00 AM -- 3:15 AM ET
-- 11:00 PM -- 2:15 AM CT
-- 10:00 PM -- 1:15 AM MT
-- 9:00 PM -- 0:15 AM PT
-
-| **Time**           | **Title**                                                                                                           |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| 2:00 - 2:05 pm | Opening Remarks and Welcome                                                                                         |
-|                     | Dingwen Tao, Xin Liang, Sheng  Di                                                                                   |
-| 2:05 - 3:00 pm | **Invited Talk**: Compressed Data Direct Processing for Big Data Reduction                                                                                            |
-|                    | **Feng Zhang**, Associate Professor, Renmin University                                                                                                                 |
-| 3:00 - 3:20 pm | **S11201**: Machine Learning Platform for Extreme Scale Computing on Compressed IoT Data.           |
-|                    | Seshu Tirupathi, Dhaval Salwala, Giulio Zizzo, Ambrish Rawat, Mark Purcell, Søren Kejser Jensen, Christian Thomsen, Nguyen Ho, Carlos E. Muniz Cuza, Jonas Brusokas, Torben Bach Pedersen, Giorgos Alexiou, Giorgos Giannopoulos, Panagiotis Gidarakos, Alexandros Kalimeris, Stavros Maroulis, George Papastefanatos, Ioannis Psarros, Vassilis Stamatopoulos, and Manolis Terrovitis                                                     |
-| 3:20 - 3:40 pm | **S11202**: Lossy Compression to Reduce Latency of Local Image Transfer for Autonomous Off-Road Perception Systems                                                         |
-|                    | Max Faykus, Bradley Selee, Jon Calhoun, and Melissa Smith                                               |
-| 3:40 - 4:00 pm | **BigD616**: Estimating Potential Error in Sampling Interpolation                                    |
-|                    | Megan Hickman Fulp, Dakota Fulp, and Jon Calhoun                                |
-| 4:00 - 4:10 pm | **Coffee Break**                                                                                                    |
-| 4:10 - 4:30 pm | **S11204**: Towards Guaranteeing Error Bound in DCT-based Lossy Compression                                   |
-|                    | Jiaxi Chen, Aekyeung Moon, and Seung Woo Son                                                                            |
-| 4:30 - 4:50 pm | **S11203**: Exploring Data Corruption Inside SZ                                   |
-|                    | Ruiwen Shan and Jon C. Calhoun                                                                            |
-| 4:50 - 5:10 pm | **BigD247**: Extraction of Power Consumption Patterns using Non-negative Tucker Decomposition  |
-|                    | Taku Moriyama, Mio Hosoe, Masashi Kuwano, and Yuka Minamino                                                                            |
-| 5:10 - 5:15 pm | **Closing Remarks**                                                                                                 |
-
-
-# Participation
-
-Office website: [https://events.rdmobile.com/Sessions/Details/1638858](https://events.rdmobile.com/Sessions/Details/1638858)
+[//]: # (Office website: [https://events.rdmobile.com/Sessions/Details/1638858]&#40;https://events.rdmobile.com/Sessions/Details/1638858&#41;)
 
