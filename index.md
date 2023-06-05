@@ -92,3 +92,4 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 * Shaomeng Li, _National Center for Atmospheric Research_
 * Xiaodong Yu, _Argonne National Laboratory_
 * Jiannan Tian, _Indiana University_
+* Chengshuo Xu, _University of California, Riverside_
