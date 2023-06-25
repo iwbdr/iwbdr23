@@ -95,3 +95,4 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 * Xiaodong Yu, _Argonne National Laboratory_
 * Jiannan Tian, _Indiana University_
 * Chengshuo Xu, _University of California, Riverside_
+* Jinyang Liu, _University of California, Riverside_
