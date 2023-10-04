@@ -67,20 +67,20 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Important Dates
 
-* Paper Submission: October 1, 2023
-* Paper Acceptance Notification: November 1, 2023
-* Camera-ready Deadline: November 20, 2023
-* Workshop: December 15-18, 2023
+* Paper Submission: November 8, 2023
+* Paper Acceptance Notification: November 15, 2023
+* Camera-ready Deadline: November 22, 2023
+* Workshop: December 15-18, 2023 (specific day to be announced later)
 
 # Organizers
 
 ### Program Chairs
-* Kai Zhao, _University of Alabama at Birmingham_
+* Kai Zhao, _Florida State University_
 * Sian Jin, _Temple University_
 * Jieyang Chen, _University of Alabama at Birmingham_
 
 ### Web Chair
-* Longtao Zhang, _University of Alabama at Birmingham_
+* Longtao Zhang, _Florida State University_
 
 ### Steering Committee
 * Dingwen Tao, _Indiana University_
