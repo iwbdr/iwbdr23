@@ -89,10 +89,11 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Program Committee (Planned)
 
-* William Godoy, _Oak Ridge National Laboratory_
-* Pascal Grosset, _Los Alamos National Laboratory_
 * Shaomeng Li, _National Center for Atmospheric Research_
 * Xiaodong Yu, _Argonne National Laboratory_
 * Jiannan Tian, _Indiana University_
-* Chengshuo Xu, _University of California, Riverside_
 * Jinyang Liu, _University of California, Riverside_
+* Chengming Zhang, _Indiana University_
+* Yafan Huang, _University of Iowa_
+* Robert Underwood, _Argonne National Laboratory_
+* Chengshuo Xu, _University of California, Riverside_
